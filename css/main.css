@@ -110,6 +110,14 @@ p {
   padding: 20px;
 }
 
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 20px;
+}
+
 .video {
   display: block;
   margin-left: auto;
